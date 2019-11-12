@@ -278,8 +278,8 @@ function getGermanCars(arr) {
       newModels.push(arr[i]);
     }
 
-    return newModels;
   }
+  return newModels;
 }
 
 /**
